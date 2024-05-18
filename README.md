@@ -1,7 +1,8 @@
+
 ### HAT
 HAT: Hierarchical Aggregation Transformers for Person Re-identification (ACM MM21)
 
-## Get started
+# Get started
 For the dataset processing and running, please take a look at [Strong Baseline](https://github.com/michuanhaohao/reid-strong-baseline).
 
 If you have any problems. Please contact
