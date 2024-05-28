@@ -1,6 +1,6 @@
 
 ### HAT
-HAT: Hierarchical Aggregation Transformers for Person Re-identification (ACM MM21)
+HAT: Hierarchical Aggregation Transformers for Person Re-identification (ACM MM21)  
 Previous project page: [HAT](https://github.com/AI-Zhpp/HAT)
 
 # Get started
